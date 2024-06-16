@@ -1,0 +1,17 @@
+0
+1
+-1/sqrt(2)*exp(-i*pi/4)
+1/sqrt(2)*exp(i*pi/4)
+1/sqrt(2)
+-i/sqrt(2)
+1
+0
+0
+-i/2
+1/sqrt(2)
+i/2	
+1/2
+i/sqrt(2)
+-1/2
+0
+1/2*hbar^2*( (l^2+l)-m^2)
