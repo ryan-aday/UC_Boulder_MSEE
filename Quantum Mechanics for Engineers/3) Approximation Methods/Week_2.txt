@@ -1,0 +1,6 @@
+(pi*f0^2*tau^2)/(2*hbar*m*omega)*(exp(-(tau^2*omega^2)/(2)))
+0
+	x 1/(2*m*omega*hbar)*(exp(-2*t/tau)+1-2*cos(omega*t)*exp(-t/tau))/(omega^2+tau^-2)
+((16*L/(9*pi^2))^2/(hbar^2)*f0^2)/(tau^(-2)+omega21^2)
+0
+	x (f0*L^2/4)^2

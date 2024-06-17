@@ -1,0 +1,11 @@
+(1/w)^(1/2)*(2/pi)^(1/4)
+sqrt(2)*sqrt((hbar)/(m*omega))
+-m*V0^2/(2*hbar^2)
+sqrt(V0*m/(hbar^2))*exp(kappa*x)
+sqrt(V0*m/(hbar^2))*exp(-kappa*x)
+-m*V0^2/(2*hbar^2)+V0*exp(kappa*d)	x -m*V0^2/(2*hbar^2)+V0*exp(-d*m*V0/hbar^2)	x -pi^2*hbar^2/(d^2*m)	x sqrt(kappa*kbar/(m*omega))*	x -kappa^2*hbar^2/(2*m) + hbar^2*kappa/m*exp(-kappa*d)	x -kappa^2*hbar^2/(2*m)	x hbar^2*(pi/d)^2/m
+1/sqrt(2)
+-1/sqrt(2)
+x hbar^2*(pi/d)^2/m x -hbar^2*(pi/d)^2/m
+1/sqrt(2)
+1/sqrt(2)

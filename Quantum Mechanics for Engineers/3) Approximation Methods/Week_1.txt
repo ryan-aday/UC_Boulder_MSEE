@@ -1,0 +1,15 @@
+0
+-(q^2*E^2)/(2*m*omega^2)
+2*hbar*omega
+(a*hbar*omega)/2
+-(a*hbar*omega)/2
+(E1+E2)/2-sqrt((E2-E1)^2+4*Delta^2)/2
+(E1+E2)/2+sqrt((E2-E1)^2+4*Delta^2)/2
+E1-(Delta^2/(E2-E1))
+E2+(Delta^2/(E2-E1))
+0
+0
+-(Delta^2)/(E2-E1)
+(Delta^2)/(E2-E1)
+Delta
+-Delta
